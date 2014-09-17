@@ -3,7 +3,7 @@
 ## returns the inverse of the matrix (directly computed via solve(X) or from 
 ## the cache)
 
-print ("ATTENTION! THE MATRIX MUST BE SQUARE!")
+print ("ATTENTION! THE MATRIX MUST BE SQUARE!") #message for the user
 
 ## MAKECACHEMATRIX(X = MATRIX())
 #   The function creates a special "matrix" object that can cache its inverse.
